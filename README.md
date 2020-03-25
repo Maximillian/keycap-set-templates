@@ -12,4 +12,4 @@ Illustrator files are saved in Illustrator CS6 format. Outlines are based on DSA
 
 ## License
 
-This project is licensed under the GPL 3.0 License - see the [GNU License](https://www.gnu.org/licenses/gpl-3.0.en.html) file for details
+This project is licensed under the GPL 3.0 License - see the [LICENSE.md](LICENSE.md) file for details
