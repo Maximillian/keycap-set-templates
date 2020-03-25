@@ -8,7 +8,7 @@ Illustrator files are saved in Illustrator CS6 format. Outlines are based on DSA
 
 ## Authors
 
-* **Maximillian** aka **/u/AuthenticDanger** - *Initial work* - [PurpleBooth](https://github.com/Maximillian)
+* **Maximillian** aka **/u/AuthenticDanger** - *Initial work* - [GitHub](https://github.com/Maximillian)
 
 ## License
 
