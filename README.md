@@ -1,6 +1,6 @@
 # Keycap Set Templates
 
-A collection of vector templates for keycap set designers. PNGs are also provided for quick mockup or reference purposes.
+A collection of vector layout templates for keycap set designers. PNGs are also provided for quick mockup or reference purposes.
 
 ## Getting Started
 
